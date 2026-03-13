@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "doc_1",
+    "chunk_id": "doc_1_chunk_1",
+    "file_path": "C:\\Users\\aravind\\Desktop\\cybercore\\ask_docs_sample_docs\\backend\\docs\\benefits.html",
+    "content_hash": "1ca9ef0a34730cc2d21304cef6b9a5a691369dcf458de11e9ad1a518652be2ef",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_version": "all-MiniLM-L6-v2",
+    "text": "Employee Benefits\nEmployee Benefits\nEmployee Benefits\nHealth Insurance\nAll full-time employees receive comprehensive medical insurance\ncoverage for themselves and dependents.\nWellness Program\nThe company provides a wellness allowance of AED 1000 per year that\ncan be used for gym memberships, sports activities, or health\nprograms.\nTraining and Development\nEmployees are eligible for up to AED 5000 per year for professional\ndevelopment courses and certifications.\nProbation Period\nThe probation period lasts for 6 months. During probation, some\nbenefits may be limited."
+  },
+  {
+    "doc_id": "doc_2",
+    "chunk_id": "doc_2_chunk_1",
+    "file_path": "C:\\Users\\aravind\\Desktop\\cybercore\\ask_docs_sample_docs\\backend\\docs\\it_setup.md",
+    "content_hash": "6f9e7e2f0e0ef7027dffff459417a83eb2f1488510e879f9bdf79b25ece7cf8d",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_version": "all-MiniLM-L6-v2",
+    "text": "# IT Setup Guide\n## Laptop Request\nNew employees receive a company laptop during onboarding.\nLaptop requests must be submitted through the IT portal.\n## VPN Access\nEmployees who work remotely must connect to the company network through\nthe VPN.\nVPN access requires approval from the employee's manager and IT\nadministrator.\n## Software Installation\nEmployees may install approved productivity tools such as Slack, Zoom,\nand Microsoft Office.\nAdministrative permissions are required to install development tools."
+  },
+  {
+    "doc_id": "doc_3",
+    "chunk_id": "doc_3_chunk_1",
+    "file_path": "C:\\Users\\aravind\\Desktop\\cybercore\\ask_docs_sample_docs\\backend\\docs\\leave_policy.md",
+    "content_hash": "76c116b380efec4a468081840ffd1382fa5fdad94838800c088279ac374548df",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_version": "all-MiniLM-L6-v2",
+    "text": "# Employee Leave Policy\n## Annual Leave\nAll full-time employees are entitled to **24 days of annual leave per\nyear**.\nLeave accrues monthly and must be approved by the employee's reporting\nmanager before being taken.\n## Sick Leave\nEmployees may take **up to 10 days of paid sick leave annually** with\nmedical documentation.\nIf sick leave exceeds 3 consecutive days, a medical certificate is\nrequired.\n## Public Holidays\nEmployees are entitled to all officially recognized UAE public holidays.\n## Carry Forward Policy\nEmployees may carry forward a maximum of **5 unused leave days** to the\nnext calendar year.\nAny additional unused leave will expire at the end of the year."
+  },
+  {
+    "doc_id": "doc_4",
+    "chunk_id": "doc_4_chunk_1",
+    "file_path": "C:\\Users\\aravind\\Desktop\\cybercore\\ask_docs_sample_docs\\backend\\docs\\security_incidents.txt",
+    "content_hash": "1a060984c8c3174a7e1bfadeb82018786a36b7bfb900f371a530a90c2016e5a7",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_version": "all-MiniLM-L6-v2",
+    "text": "Security Incident Response Guidelines\nIf an employee receives a suspicious email that may be phishing, the\nemployee must not click any links or download attachments.\nSteps to follow: 1. Immediately report the email to the IT Security\nteam. 2. Forward the email to security@company.com. 3. Delete the email\nafter reporting it.\nLost Laptop Procedure: If a company laptop is lost or stolen, employees\nmust report the incident to IT within 2 hours.\nThe IT department will remotely disable access and revoke credentials.\nPassword Security: Employees must use multi-factor authentication (MFA)\nfor all company systems. Passwords must be at least 12 characters long\nand should not be reused across systems."
+  },
+  {
+    "doc_id": "doc_5",
+    "chunk_id": "doc_5_chunk_1",
+    "file_path": "C:\\Users\\aravind\\Desktop\\cybercore\\ask_docs_sample_docs\\backend\\docs\\travel_reimbursement.xlsx",
+    "content_hash": "ac9dc7f05a68a8631df03df8b0ddba3a9bbdd516604cf3d13c64460bb7a67c86",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "embedding_version": "all-MiniLM-L6-v2",
+    "text": "Sheet: TravelPolicy\nCategory | Max Amount | Currency | Approval Required\nTaxi | 150 | AED | Manager\nMeals | 80 | AED | Manager\nHotel | 500 | AED | Finance\nInternational Flight | 3000 | AED | Director"
+  }
+]

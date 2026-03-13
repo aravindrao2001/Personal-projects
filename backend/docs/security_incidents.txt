@@ -1,0 +1,17 @@
+Security Incident Response Guidelines
+
+If an employee receives a suspicious email that may be phishing, the
+employee must not click any links or download attachments.
+
+Steps to follow: 1. Immediately report the email to the IT Security
+team. 2. Forward the email to security@company.com. 3. Delete the email
+after reporting it.
+
+Lost Laptop Procedure: If a company laptop is lost or stolen, employees
+must report the incident to IT within 2 hours.
+
+The IT department will remotely disable access and revoke credentials.
+
+Password Security: Employees must use multi-factor authentication (MFA)
+for all company systems. Passwords must be at least 12 characters long
+and should not be reused across systems.
